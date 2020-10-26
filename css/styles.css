@@ -45,3 +45,11 @@ body {
     padding: 1em;
 }
 
+#footer{
+    background-color: #33A;
+    text-align: center;
+    font-size: large;
+    color: black;
+    padding: 0.5em;
+    height: 2em;
+}
