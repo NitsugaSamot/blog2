@@ -39,3 +39,10 @@ body {
     padding: 1em;
 }
 
+#footer{
+    background-color: #33A;
+    text-align: center;
+    font-size: large;
+    color: black;
+    height: 2em;
+}
